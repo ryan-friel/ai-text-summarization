@@ -24,7 +24,7 @@ pipenv shell
 ```
 This will open up the virtual environment that has all dependencies installed. Next just run
 ```shell
-python main.py
+python summary.py
 ```
 Tis will present you with summarized text.
 
